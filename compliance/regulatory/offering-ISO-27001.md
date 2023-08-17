@@ -84,14 +84,12 @@ Use the following table to determine applicability for your Office 365 services 
 
 Office 365 cloud services are audited at least annually against the ISO 27001:2013 standard.
 
-- [Office 365—Global and Germany ISO 27001: Information Security Management Standards Certificate](https://aka.ms/o365iso27001cert)
+- [Office 365 - ISO 27001:2013 Certificate](https://servicetrust.microsoft.com/DocumentPage/625b5b48-8aad-44ff-9b25-5bafb8dbe24c)
 
 ### Office 365 assessments and reports
 
-- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8873fa17-9962-4be9-b0d0-086262eb84fb)
-- [Office 365: ISO 27001, 27018, and 27017 Statement of Authority (SOA)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
-- [Office 365: Information Security Management System (ISMS)—Statement Of Applicability for Security and Privacy](https://aka.ms/o365isosoa)
-- [Office 365 Germany: ISO 27001, 27017, and 27018 Audit Assessment Report](https://aka.ms/o365gerisoaudit)
+- [M365 ISO Assessment Report (2023)](https://servicetrust.microsoft.com/DocumentPage/ea839273-d3cf-4ec1-8f98-4cc7209bb09a)
+- [Office 365 - ISO 27001, 27017, 27018, 27701 Statement of Applicability](https://servicetrust.microsoft.com/DocumentPage/d7716068-309b-4f62-b03d-c7bbc89ed69f)
 
 ### Frequently asked questions
 
